@@ -1,7 +1,8 @@
 # MatrixEqualizer
-Arduino sketch
-Works fine with custom led matrix 10x10
-Sketch working:
+* Arduino sketch
+* Works fine with custom led matrix 10x10
+* Sketch working:
+
 https://youtu.be/0Vx4jeOIIIM
 
 Schematic diagrams
